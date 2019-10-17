@@ -1,1 +1,2 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I love to code in *Node* and _Python_
+**Javascript** Rules __All Day__
